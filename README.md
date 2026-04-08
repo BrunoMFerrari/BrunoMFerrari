@@ -1,30 +1,30 @@
-## Olá, eu sou o Bruno 👋
+#Hello, I’m Bruno 👋
 
-Sou estudante de Sistemas de Informação na USP e paralelamente estou focado em aprender desenvolvimento de software, com foco em backend em Python.
+I am an Information Systems student at USP, and alongside my studies, I am focused on learning software development, with an emphasis on Python backend development.
 
- # Tecnologias que estou usando
- Python
- FastAPI
- APIs REST
- Banco de dados(SqlAlchemy)
- Git e GitHub
+##Technologies I’m using
+Python
+FastAPI
+REST APIs
+Databases (SQLAlchemy)
+Git and GitHub
 
- # Projetos em destaque
- Task Manager API
- API REST desenvolvida com FastAPI
- https://github.com/BrunoMFerrari/FastAPI_task_manager
+##Featured Projects
+Task Manager API
+REST API developed with FastAPI
+https://github.com/BrunoMFerrari/FastAPI_task_manager
 
- Task Manager CLI
- Sistema de gerenciamento de tarefas no terminal
- https://github.com/BrunoMFerrari/python_task_manager
+Task Manager CLI
+Task management system for the terminal
+https://github.com/BrunoMFerrari/python_task_manager
 
- # Atualmente estudando
- Programação orientada a objetos (POO)
- Estrutura de APIs
- Boas práticas backend
+##Currently studying
+Object-Oriented Programming (OOP)
+API structure
+Backend best practices
 
- # Objetivo
- Evoluir na área da tecnologia
+##Goal
+To grow in the technology field
 
- # Contato
- Linkedln: https://www.linkedin.com/in/bruno-morillo-ferrari-8949883b6/
+##Contact
+LinkedIn: https://www.linkedin.com/in/bruno-morillo-ferrari-8949883b6/
